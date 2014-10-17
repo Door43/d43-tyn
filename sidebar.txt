@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tyn:home|Door43 (tyn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tyn|d43-tyn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tyn/archive/master.zip|d43-tyn.zip]]
+
+**Recent Changes**
+{{changes>ns = tyn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tyn|Ethnologue data]]
+
